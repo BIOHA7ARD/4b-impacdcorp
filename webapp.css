@@ -1,4 +1,4 @@
-@charset "UTF-8";
+@cw''/;≥≥≥≥≥≥Pharset "UTF-8";
 /* CSS Document */
 
 /*Content aligned to center*/
@@ -41,25 +41,25 @@ body{
 	border-radius: 50%;
 	margin: 14px;	
 	padding: 75px;
-	}
-	.active1{
+}
+.active1{
 	background-image:url('images/jackcreep.jpg');
 	width: 110px;
 	height:110px;
 	border-radius: 50%;
 	margin: 14px;	
 	padding: 75px;
-	}
+}
 /**/
 	
-	.silver{
+.silver{
 	background-image:url('images/dogjack.jpeg');
 	width: 110px;
 	height:110px;
 	border-radius: 50%;
 	margin: 14px;	
 	padding: 75px;	
-	}
+}
 .deathmole{
 	background-image:url('images/erin.jpeg');
 	width: 110px;
@@ -67,9 +67,7 @@ body{
 	border-radius: 50%;
 	margin: 14px;	
 	padding: 75px;
-
-
-	}
+}
 .badmole{
 	background-image:url('images/sundae.jpg');
 	width: 110px;
@@ -77,45 +75,46 @@ body{
 	border-radius: 50%;
 	margin: 14px;	
 	padding: 75px;
-
-
-	}
-	#title{
+}
+#title{
 		font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
 		font-size:24px;
 		color: white;
-		
-		}
+}
 #startpage{
 	font-size:xx-large;
 	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
 	color: white;
-	}
-	#linkbutton{
+}
+#linkbutton{
 		width:700px;
 		height: 500px;
 		background-image:url('images/sundae.jpg');
 		font-size:100px;
-		font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif}
-		#menubutton{
+		font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif
+}
+#menubutton{
 		width:300px;
 		height: 300px;
 		border-radius: 50%;
 		font-size:50px;
 		font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
 		background-image: url('images/jackcreep.jpg');
-		color: purple;}
-		#tutorialbutton{
+		color: purple;
+}
+#tutorialbutton{
 		width:300px;
 		height: 300px;
 		border-radius: 50%;
 		font-size:50px;
 		font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
 		background-image: url('images/jackcreep.jpg');
-		color: purple;}
-		#skinshop{
-			font-size:50px}
-		.font{
+		color: purple;
+}
+#skinshop{
+			font-size:50px
+}
+font{
 			font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
 			font-size:36px;
-	}
+}
